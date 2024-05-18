@@ -4,7 +4,7 @@
 // @version      2024-05-07
 // @description  show clickable links for the popular works you can see without premium
 // @author       You
-// @match        https://www.pixiv.net/*s_mode=s_tag
+// @match        https://www.pixiv.net/en/tags/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hibbard.eu
 // @grant        none
 // ==/UserScript==
