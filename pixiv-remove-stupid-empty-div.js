@@ -16,8 +16,6 @@ Just a hard coded 3 second timeout, appears to be enough/reasonable to wait unti
 the new style element is added after the <link> tag for the css so display:none overrides it
 */
 
-let marismells2 = setTimeout(() => {
-    let marismells = document.createElement('style');
-    marismells.innerText = '.bisbq { display: none; }';
-    document.head.appendChild(marismells);
-}, 3000);
+let marismells = document.createElement('style');
+marismells.innerText = '.bisbq { display: none !important; }';
+document.head.appendChild(marismells);
