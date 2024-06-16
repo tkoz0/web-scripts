@@ -18,4 +18,5 @@ the new style element is added after the <link> tag for the css so display:none 
 
 let marismells = document.createElement('style');
 marismells.innerText = '.bisbq { display: none !important; }';
+marismells.innerText = '.cVFqOO { display: none !important; }';
 document.head.appendChild(marismells);
