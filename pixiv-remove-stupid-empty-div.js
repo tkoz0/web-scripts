@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         pixiv-remove-stupid-empty-div
 // @namespace    http://tampermonkey.net/
-// @version      2024-05-19
+// @version      2024-06-15
 // @description  get rid of the stupid div that takes up a bunch of useless space and gets annoying
 // @author       You
 // @match        https://www.pixiv.net/en/artworks/*
